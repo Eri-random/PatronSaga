@@ -71,5 +71,9 @@ https://medium.com/@dongfuye/the-seven-most-classic-solutions-for-distributed-tr
 
 #### Apache Camel
 
+#### Camel support
+* InMemorySagaService
+* LRASagaService
+
 https://camel.apache.org/components/4.8.x/eips/saga-eip.html
 
